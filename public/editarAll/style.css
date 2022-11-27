@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;400;500;600;700;800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-image: url(./img/fondo3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Mukta', sans-serif;   
+}
+
+#espacio{
+    margin-top: 4%;
+}
+
+header{
+    background-color: #FAFAFA;
+    width: 100%;
+    /*margin: auto;*/
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+
+.footer{
+    
+    background-color: #FFD507;
+    padding: 1em 0;
+    margin-top: auto;
+    height: 100px;  
+}
+
+a{
+    text-decoration: none; 
+}
+
+
